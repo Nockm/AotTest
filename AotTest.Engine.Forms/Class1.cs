@@ -1,6 +1,9 @@
 ﻿namespace AotTest.Engine.Forms;
 
-public class Class1
+public class EngineFormTest
 {
-
+    public static void Run()
+    {
+        Console.WriteLine("Running EngineFormTest.Run");
+    }
 }

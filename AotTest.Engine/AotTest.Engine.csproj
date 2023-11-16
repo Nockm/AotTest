@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AotTest.Engine.Forms\AotTest.Engine.Forms.csproj" />
+  </ItemGroup>
+
 </Project>
